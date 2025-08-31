@@ -1,0 +1,4 @@
+2025-08-31T16:17:58.762075100 - Erro ao adicionar aluno: Nome não pode ser nulo.
+2025-08-31T16:17:58.766076500 - Erro ao adicionar aluno: Matricula deve ser conter 6 caracteres
+2025-08-31T16:17:58.767078 - Erro ao adicionar aluno: O Curso não pode ser nulo.
+2025-08-31T16:17:58.767078 - Erro ao adicionar aluno: A Nota deve ser entre 0 e 10.
